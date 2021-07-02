@@ -70,5 +70,7 @@ def plot_region(coordinates_x_in_frame, coordinates_y_in_frame, values_of_frame,
                   alpha=0.8, zorder=1, shading='auto')
     ax.plot([line_p1[1], line_p2[1]], [line_p1[0], line_p2[0]], 
             linewidth=3, zorder=2 , color='black')
+    plt.xlabel('$x$', fontsize=12)
+    plt.ylabel('$y$', fontsize=12)
     plt.title('Region ' + str(region_index))
     
