@@ -52,7 +52,8 @@ Region 6 | Region 10 | Region 46
 **Example of statistical analysis:**
 
  In the below figures, statistical analysis of extracted features (current sheets) and distribution of size geometrical 
-    properties(thickness, length) from the simulation are shown.
+    properties(thickness, length) from the simulation are shown.\
+    ![Screenshot_2021-08-05_13-34-15](https://user-images.githubusercontent.com/86779335/128373691-5944f873-b373-4792-96e8-0f70111d42a5.png)
 #### Note
 This library can be also beneficial to the astrophysics society. For example you can perform statistical analysis of thickness, length, and aspect ratio (length/half-thickness) of each current-sheet in a plasma. Examples of visualizations and results can be seen in a publication in the Journal of Physics of Plasmas: [doi.org/10.1063/5.0040692](https://doi.org/10.1063/5.0040692)
 
