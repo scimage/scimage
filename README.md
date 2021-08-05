@@ -34,6 +34,11 @@ Detected peak points | Detected regions (current sheets) around the peak points
 ![Detected peak points](https://github.com/scimage/scimage/blob/main/sample-results/plasma-peaks.png) | ![Detected regions around each peaks point](https://github.com/scimage/scimage/blob/main/sample-results/plasma-regions.png)
 
 \
+2- Savizky Gulay filtering:
+ 
+  - We implemented Svizky-Gulay which is one of the digital filtering methods (convolution process). In this method, the local 
+    data point is fitted by the sub-set of adjacent data point sequentially with low degree polynomial by the linear least method.
+\
 **Cropping out and characterizing some of the detected regions (the line represents length):**
 
 Region 6 | Region 10 | Region 46
