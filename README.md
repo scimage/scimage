@@ -58,8 +58,8 @@ Region 6 | Region 10 | Region 46
     
     
 <p float="left">
-  <img src="/ (https://user-images.githubusercontent.com/86779335/128374074-0dfc6222-86b8-43dc-acbf-09ce6efae088.png)" width="100" />
-  <img src="/ (https://user-images.githubusercontent.com/86779335/128374395-e73c3a0a-3df5-4d4f-bff7-45d6aea56161.png)" width="100" /> 
+  <img src="/ (https://user-images.githubusercontent.com/86779335/128374074-0dfc6222-86b8-43dc-acbf-09ce6efae088.png)" width="200" />
+  <img src="/ (https://user-images.githubusercontent.com/86779335/128374395-e73c3a0a-3df5-4d4f-bff7-45d6aea56161.png)" width="200" /> 
 </p>
 
 #### Note
