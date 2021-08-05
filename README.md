@@ -57,9 +57,8 @@ Region 6 | Region 10 | Region 46
 
 
 
-![Screenshot_2021-08-05_13-34-43](sample-results/characterization-distribution-thickness.png) ![Screenshot_2021-08-05_13-35-11](sample-results/characterization-distribution-length.png)
-
-   
+![a](sample-results/characterization-distribution-thickness.png) ![a](sample-results/characterization-distribution-length.png)
+  
     
 
 
