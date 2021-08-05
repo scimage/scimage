@@ -55,6 +55,13 @@ Region 6 | Region 10 | Region 46
     properties(thickness, length) from the simulation are shown.\
     ![Screenshot_2021-08-05_13-34-15](https://user-images.githubusercontent.com/86779335/128373691-5944f873-b373-4792-96e8-0f70111d42a5.png)
     ![Screenshot_2021-08-05_13-34-43](https://user-images.githubusercontent.com/86779335/128374074-0dfc6222-86b8-43dc-acbf-09ce6efae088.png)|      ![Screenshot_2021-08-05_13-35-11](https://user-images.githubusercontent.com/86779335/128374395-e73c3a0a-3df5-4d4f-bff7-45d6aea56161.png)
+    
+    
+<p float="left">
+  <img src="/ ![Screenshot_2021-08-05_13-34-43](https://user-images.githubusercontent.com/86779335/128374074-0dfc6222-86b8-43dc-acbf-09ce6efae088.png)" width="100" />
+  <img src="/ ![Screenshot_2021-08-05_13-35-11](https://user-images.githubusercontent.com/86779335/128374395-e73c3a0a-3df5-4d4f-bff7-45d6aea56161.png)" width="100" /> 
+</p>
+
 #### Note
 This library can be also beneficial to the astrophysics society. For example you can perform statistical analysis of thickness, length, and aspect ratio (length/half-thickness) of each current-sheet in a plasma. Examples of visualizations and results can be seen in a publication in the Journal of Physics of Plasmas: [doi.org/10.1063/5.0040692](https://doi.org/10.1063/5.0040692)
 
