@@ -40,7 +40,7 @@ Detected peak points | Detected regions (current sheets) around the peak points
   data point is fitted by the sub-set of adjacent data point sequentially with low degree polynomial by the linear least method.\
   ![Screenshot_2021-08-05_13-33-30](https://user-images.githubusercontent.com/86779335/128354740-5bc50030-3cc1-4050-a324-b30eb652e7d3.png) \
   
-  Here we implemented the data filtering for diffrent values of *n<sub>f</sub>* and *n<sub>w</sub>*
+  Here we implemented the data filtering for diffrent values of *n<sub>f</sub>* (degree og polynomal) and *n<sub>w</sub>* (grid point).
 
 \
 **Cropping out and characterizing some of the detected regions (the line represents length):**
@@ -49,7 +49,7 @@ Region 6 | Region 10 | Region 46
 ------------ | ------------- | -------------
 ![Plasma Region 6](https://github.com/scimage/scimage/blob/main/sample-results/plasma-region-6-r.png) | ![Plasma Region 10](https://github.com/scimage/scimage/blob/main/sample-results/plasma-region-10-r.png) | ![Plasma Region 46](https://github.com/scimage/scimage/blob/main/sample-results/plasma-region-46-r.png)
 
-
+**Statistical analysis:**
 #### Note
 This library can be also beneficial to the astrophysics society. For example you can perform statistical analysis of thickness, length, and aspect ratio (length/half-thickness) of each current-sheet in a plasma. Examples of visualizations and results can be seen in a publication in the Journal of Physics of Plasmas: [doi.org/10.1063/5.0040692](https://doi.org/10.1063/5.0040692)
 
