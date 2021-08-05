@@ -54,7 +54,7 @@ Region 6 | Region 10 | Region 46
  In the below figures, statistical analysis of extracted features (current sheets) and distribution of size geometrical 
     properties(thickness, length) from the simulation are shown.\
     ![Screenshot_2021-08-05_13-34-15](https://user-images.githubusercontent.com/86779335/128373691-5944f873-b373-4792-96e8-0f70111d42a5.png)
-    ![Screenshot_2021-08-05_13-34-43](https://user-images.githubusercontent.com/86779335/128374074-0dfc6222-86b8-43dc-acbf-09ce6efae088.png)|      ![Screenshot_2021-08-05_13-35-11](https://user-images.githubusercontent.com/86779335/128374395-e73c3a0a-3df5-4d4f-bff7-45d6aea56161.png)
+   
     
     
 <p float="left">
