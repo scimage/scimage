@@ -49,7 +49,10 @@ Region 6 | Region 10 | Region 46
 ------------ | ------------- | -------------
 ![Plasma Region 6](https://github.com/scimage/scimage/blob/main/sample-results/plasma-region-6-r.png) | ![Plasma Region 10](https://github.com/scimage/scimage/blob/main/sample-results/plasma-region-10-r.png) | ![Plasma Region 46](https://github.com/scimage/scimage/blob/main/sample-results/plasma-region-46-r.png)
 
-**Statistical analysis:**
+**Example of statistical analysis:**
+
+ In the below figures, statistical analysis of extracted features (current sheets) and distribution of size geometrical 
+    properties(thickness, length) from the simulation are shown.
 #### Note
 This library can be also beneficial to the astrophysics society. For example you can perform statistical analysis of thickness, length, and aspect ratio (length/half-thickness) of each current-sheet in a plasma. Examples of visualizations and results can be seen in a publication in the Journal of Physics of Plasmas: [doi.org/10.1063/5.0040692](https://doi.org/10.1063/5.0040692)
 
