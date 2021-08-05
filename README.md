@@ -38,7 +38,7 @@ Detected peak points | Detected regions (current sheets) around the peak points
 
 - We implemented Svizky-Gulay which is one of the digital filtering methods (convolution process). In this method, the local 
   data point is fitted by the sub-set of adjacent data point sequentially with low degree polynomial by the linear least method.\
-  ![Screenshot_2021-08-05_13-33-30](https://user-images.githubusercontent.com/86779335/128354740-5bc50030-3cc1-4050-a324-b30eb652e7d3.png) \
+  ![Screenshot_2021-08-05_13-33-30](https://user-images.githubusercontent.com/86779335/128354740-5bc50030-3cc1-4050-a324-b30eb652e7d3.png) 
   
   Here we implemented the data filtering for diffrent values of *n<sub>f</sub>* (degree of polynomal) and *n<sub>w</sub>* (grid point) and same time frame of simulation **<img src="https://latex.codecogs.com/svg.image?\omega_{ci}t=50" title="\omega_{ci}t=50" />**.
 
